@@ -1,0 +1,29 @@
+
+
+.navbar-default .nav > li > a, .navbar-nav > li >a {
+  position: relative;
+  display: block;
+  padding: 37px 8px; 
+}
+
+.navbar-default {
+    background: none;
+    border: none;
+}
+
+.navbar-brand{
+  height: initial;
+}
+
+.navbar-default .navbar-toggle { 
+    margin-top: 27px;
+}
+
+.logo {
+    height: 100px;
+    float: left;
+    padding-right: 15px;
+}
+.logo-site{
+	padding-top:20px;
+}
